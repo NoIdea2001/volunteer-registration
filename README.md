@@ -115,15 +115,6 @@ The backend will be available at `http://localhost:8080`.
 
 ---
 
-## 🚀 Future Improvements
-
-- Add user authentication  
-- Filter volunteers by name or location  
-- Pagination for large datasets  
-- Add unit and integration tests  
-
----
-
 ## 📄 License
 
 This project is open-source and available under the MIT License.
