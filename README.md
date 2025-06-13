@@ -113,8 +113,4 @@ The backend will be available at `http://localhost:8080`.
 - If you're using static HTML or Thymeleaf, open the homepage at:  
   `http://localhost:8080/`
 
----
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
