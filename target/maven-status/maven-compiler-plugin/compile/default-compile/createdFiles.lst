@@ -1,0 +1,6 @@
+com/volunteer/service/VolunteerService.class
+com/volunteer/config/WebConfig.class
+com/volunteer/controller/VolunteerController.class
+com/volunteer/model/Volunteer.class
+com/volunteer/VolunteerApplication.class
+com/volunteer/repository/VolunteerRepository.class
